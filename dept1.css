@@ -1,0 +1,136 @@
+*{
+  margin: 0 px;
+  padding: 0 px;
+}
+.title{
+  text-align: center;
+  padding: 50px;
+  font-family: sans-serif;
+}
+.title p{
+  color:grey;
+}
+#h1{
+  color:#3D97E8;
+}
+#h6{
+  color:grey;
+}
+.p_doc{
+  color:grey;
+  font-family: sans-serif;
+}
+#img{
+  width:600px;
+  height:650px;
+  padding-top: 50px;
+}
+#dept_doc{
+  padding-top: 100px;
+}
+#email_us_btn{
+  border-radius: 80px;
+   padding :5px;
+   width:100px;
+  font-family: sans-serif;
+  color:white;
+   background-color: #9BDF46;
+  border-color: #9BDF46;
+  font-weight: bold;
+}
+#make_appoint_btn{
+  border-radius: 80px;
+   padding :5px;
+   width:200px;
+  font-family: sans-serif;
+  color: #9BDF46;
+   background-color:white;
+  border-color: #9BDF46;
+  font-weight: bold;
+}
+.cards{
+  width:100%;
+ margin-right: 50px;
+ margin-bottom: 10px;
+height:60px;
+background-color:#FAFAFA ;
+padding:15px;
+}
+.price{
+  float: right;
+  color:#3C97E8;
+
+}
+.cards:hover{
+  background-color:#9BDF46;
+  color:#FAFAFA;
+}
+.cards:hover .price {
+  color:#FAFAFA;
+}
+.h5{
+   font-weight:500;
+    color:white;
+     font-family: sans-serif;
+}
+.p{
+  color:white;
+   font-family: sans-serif;
+}
+.icon{
+  color:#3C97E8;
+  margin-top:2px;
+}
+.p_icon{
+  margin-left: 5px;
+  color:white;
+}
+.card_footer{
+  width:250px
+   height:50px;
+    background-color: rgba(0,0,0,0.4);
+}
+footer input{
+  height:50px;
+   padding:10px;
+    background-color:rgba(0,0,0,0);
+    border: none;
+     color:white;
+}
+.email_card{
+  width:250px;
+  height:50px;
+  background-color: rgba(0,0,0,0.4);
+}
+.message_card{
+   width:250px;
+    height:100px;
+      background-color: rgba(0,0,0,0.4);
+}
+textarea{
+ height: 300px;
+ padding:10px;
+  background-color:rgba(0,0,0,0);
+   border: none;
+   color:white;
+}
+footer input[type="button"]{
+ border-radius: 80px;
+ padding :5px;
+ width:150px;
+  font-family: sans-serif;
+  color:white;
+   background-color: #3D97E8;
+    border: none;
+}
+.last_footer{
+  text-align: center;
+  background-color: rgba(0,0,0,0.1);
+  height:120px;
+   padding:50px;
+  
+}
+.last_footer p{
+  color:rgba(255,255,255,0.6);
+   font-size: 15px;
+}

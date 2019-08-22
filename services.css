@@ -1,0 +1,80 @@
+#button{
+  border-radius: 80px;
+   padding :5px;
+   width:150px;
+    font-family: sans-serif;
+     color:white;
+     background-color:  #3D97E8;
+      border: none;
+}
+#button:hover{
+  background-color: #9BDF46;
+}
+textarea{
+  resize:both;
+}
+.card_footer{
+  width:250px
+   height:50px;
+    background-color: rgba(0,0,0,0.4);
+}
+footer input{
+  height:50px;
+   padding:10px;
+    background-color:rgba(0,0,0,0);
+    border: none;
+     color:white;
+}
+.email_card{
+  width:250px;
+  height:50px;
+  background-color: rgba(0,0,0,0.4);
+}
+.message_card{
+   width:250px;
+    height:100px;
+      background-color: rgba(0,0,0,0.4);
+}
+textarea{
+ height: 300px;
+ padding:10px;
+  background-color:rgba(0,0,0,0);
+   border: none;
+   color:white;
+}
+footer input[type="button"]{
+ border-radius: 80px;
+ padding :5px;
+ width:150px;
+  font-family: sans-serif;
+  color:white;
+   background-color: #3D97E8;
+    border: none;
+}
+.last_footer{
+  text-align: center;
+  background-color: rgba(0,0,0,0.1);
+  height:120px;
+   padding:50px;
+}
+.last_footer p{
+  color:rgba(255,255,255,0.6);
+   font-size: 15px;
+}
+.icon{
+  color:#3C97E8;
+  margin-top:2px;
+}
+.p_icon{
+  margin-left: 5px;
+  color:white;
+}
+.h5{
+   font-weight:500;
+    color:white;
+     font-family: sans-serif;
+}
+.p{
+  color:white;
+   font-family: sans-serif;
+}
